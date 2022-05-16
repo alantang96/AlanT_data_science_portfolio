@@ -10,6 +10,6 @@
 - :computer: I’m looking for **data science /data analytics /business intelligence opportunities (Mexico / USA)**
 - 📫 Reach me at alantj96@gmail.com
 
-### [Go to my Data Science Portfolio]
+### [Go to my Data Science Portfolio](https://github.com/alantang96/alant-data-science-portfolio/blob/main/README.md)
 
 Go to the repository containing projects completed by me for hobby, self-learning, and academic purposes.
